@@ -12,4 +12,4 @@ To build pdf, open `main.tex` in [TexMaker](http://www.xm1math.net/texmaker/) an
 Modify `.gitignore` according to your requirements.
 
 
-Note: This is an official template from Concordia University, but it is **derived** from official template provided by ENCS Concordia. If you prefer, you can get official template by following [these instructions](https://aits.encs.concordia.ca/helpdesk/faq/showfaq.php?id=138).
+Note: This is **not** an official template from Concordia University, but it is **derived** from official template provided by ENCS Concordia. If you prefer, you can get official template by following [these instructions](https://aits.encs.concordia.ca/helpdesk/faq/showfaq.php?id=138).
