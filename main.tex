@@ -1,0 +1,31 @@
+\documentstyle[style]{report}
+
+\author{Author Name}
+\title{Thesis Title}
+\degree{Master of Computer Science}
+\dept{Computer Science}       % default is Comp.Sci.
+
+% Following two lines are required for PhD. thesis.
+%\titleOfPhDAuthor{Mr.}          % or Ms., Mrs., Miss, etc. (only for PhD's)
+%\PhD                            % Masters by default
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\include{pages/abstract}
+\include{pages/acknowledgements}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Body of Thesis goes here.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{chapters/chapter1/index}
+\include{chapters/chapter2/index}
+\include{chapters/chapter3/index}
+
+
+\addcontentsline{toc}{chapter}{Bibliography}
+%\bibliography{abbr,chalin,common,larch,tn}  %place your .bib files here
+%\bibliographystyle{alpha}                   %the bibliography style to use
+
+\end{document}
