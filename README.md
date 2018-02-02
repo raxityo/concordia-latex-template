@@ -1,5 +1,4 @@
 ## Concordia University LaTeX Template for Master's thesis or PHD thesis.
--------------------------------------------------------------------------
 
 This is a LaTeX template for Master's thesis or PHD thesis, derived from official template of Concordia University, Montreal, Canada.
 
